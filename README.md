@@ -18,11 +18,13 @@
   <img src="https://skillicons.dev/icons?i=python&theme=dark" />
 </p>
 
-<h3 align="left">Currently Learning</h3>
+
+<h3 align="left">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,postgres,docker&theme=dark" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&from=2026-10-21&to=2026-11-20&bg_color=0D1117&color=F1F5F9&title_color=FF1744&line=FF1744&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=October%2021%20-%20November%2020%202026" width="100%" alt="GitHub Activity October-November 2026" />
 </p>
+
 
 <h3 align="left">GitHub Activity</h3>
 
