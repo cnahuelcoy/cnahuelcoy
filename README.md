@@ -19,7 +19,7 @@
 <!--               ABOUT ME                   -->
 <!-- ======================================== -->
 
-<p align="center">
+<p align="left">
   <img src="assets/title-about.svg" alt="Hello, World!" />
 </p>
 
@@ -32,7 +32,7 @@
 <!--         LANGUAGES & TECHNOLOGIES         -->
 <!-- ======================================== -->
 
-<p align="center">
+<p align="left">
   <img src="assets/title-technologies.svg" alt="Languages & Technologies" />
 </p>
 
@@ -44,7 +44,7 @@
 <!--           CURRENTLY LEARNING             -->
 <!-- ======================================== -->
 
-<p align="center">
+<p align="left">
   <img src="assets/title-learning.svg" alt="Currently Learning" />
 </p>
 
@@ -56,7 +56,7 @@
 <!--             GITHUB ACTIVITY              -->
 <!-- ======================================== -->
 
-<p align="center">
+<p align="left">
   <img src="assets/title-activity.svg" alt="GitHub Activity" />
 </p>
 
