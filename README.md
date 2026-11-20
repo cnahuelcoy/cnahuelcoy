@@ -12,3 +12,9 @@
   student at Universidad Católica de Temuco (UCT), Chile.
 </p>
 
+
+<h3 align="left">GitHub Contributions</h3>
+
+<p align="center">
+  <img src="https://gh-heat.anishroy.com/api/cnahuelcoy/svg?theme=red&darkMode=true" alt="GitHub Contributions" width="100%" />
+</p>
