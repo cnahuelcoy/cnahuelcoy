@@ -63,3 +63,11 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&bg_color=0D1117&color=F1F5F9&title_color=E00000&line=E00000&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=GitHub%20Activity%20-%20Last%2031%20Days" width="100%" alt="GitHub Activity - Last 31 Days" />
 </p>
+
+<!-- ======================================== -->
+<!--          CONECTOR INFERIOR               -->
+<!-- ======================================== -->
+
+<p align="center">
+  <img src="assets/footer-conector-rojo.svg" alt="Conector inferior rojo" width="100%" />
+</p>
