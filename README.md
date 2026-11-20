@@ -12,7 +12,7 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1800&color=FF1744&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile" alt="Welcome to my profile" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=26&duration=3000&pause=1800&color=E00000&center=true&vCenter=true&width=600&height=60&lines=Welcome+to+my+profile" alt="Welcome to my profile" />
 </p>
 
 <!-- ======================================== -->
@@ -20,7 +20,7 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Hello%2C%20World!&fontSize=32&fontColor=FF1744" width="100%" alt="Hello, World!" />
+  <img src="assets/title-about.svg" alt="Hello, World!" />
 </p>
 
 <p align="left">
@@ -33,7 +33,7 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Languages%20%26%20Technologies&fontSize=32&fontColor=FF1744" width="100%" alt="Languages & Technologies" />
+  <img src="assets/title-technologies.svg" alt="Languages & Technologies" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Currently%20Learning&fontSize=32&fontColor=FF1744" width="100%" alt="Currently Learning" />
+  <img src="assets/title-learning.svg" alt="Currently Learning" />
 </p>
 
 <p align="center">
@@ -57,9 +57,9 @@
 <!-- ======================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=GitHub%20Activity&fontSize=32&fontColor=FF1744" width="100%" alt="GitHub Activity" />
+  <img src="assets/title-activity.svg" alt="GitHub Activity" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&bg_color=0D1117&color=F1F5F9&title_color=FF1744&line=FF1744&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=GitHub%20Activity%20-%20Last%2031%20Days" width="100%" alt="GitHub Activity - Last 31 Days" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&bg_color=0D1117&color=F1F5F9&title_color=E00000&line=E00000&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=GitHub%20Activity%20-%20Last%2031%20Days" width="100%" alt="GitHub Activity - Last 31 Days" />
 </p>
