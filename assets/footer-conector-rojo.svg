@@ -1,31 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="270" viewBox="0 0 1120 270">
-<defs>
- <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#050508"/><stop offset=".52" stop-color="#140005"/><stop offset="1" stop-color="#050508"/></linearGradient>
- <radialGradient id="cloud"><stop stop-color="#ff1744" stop-opacity=".72"/><stop offset=".25" stop-color="#8f0022" stop-opacity=".48"/><stop offset=".75" stop-color="#24000e" stop-opacity=".18"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
- <linearGradient id="line" x1="0" y1="0" x2="0" y2="1"><stop stop-color="#ff7b8f"/><stop offset=".45" stop-color="#ff163d"/><stop offset="1" stop-color="#a60020"/></linearGradient>
- <linearGradient id="emblem" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#ff233a"/><stop offset=".5" stop-color="#d80027"/><stop offset="1" stop-color="#9d001b"/></linearGradient>
- <filter id="glow" x="-30%" y="-200%" width="160%" height="500%"><feGaussianBlur stdDeviation="5"/></filter>
- <filter id="mist"><feTurbulence type="fractalNoise" baseFrequency=".007 .028" numOctaves="4" seed="8" result="noise"/><feColorMatrix in="noise" type="saturate" values="0" result="gray"/><feComponentTransfer in="gray" result="low"><feFuncA type="linear" slope=".18"/></feComponentTransfer><feBlend in="SourceGraphic" in2="low" mode="screen"/></filter>
- <linearGradient id="fade" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="white"/><stop offset=".68" stop-color="white"/><stop offset="1" stop-color="black"/></linearGradient>
- <mask id="lower"><rect width="1120" height="300" fill="black"/><path d="M0 54 C160 9 250 104 410 74 S660 -1 807 48 S1040 107 1120 35 V300 H0Z" fill="url(#fade)"/></mask>
-</defs>
-<g mask="url(#lower)">
- <rect width="1120" height="300" fill="url(#bg)"/>
- <g filter="url(#mist)">
-  <ellipse cx="165" cy="148" rx="320" ry="118" fill="url(#cloud)"/>
-  <ellipse cx="1014" cy="130" rx="320" ry="140" fill="url(#cloud)"/>
-  <ellipse cx="70" cy="260" rx="235" ry="78" fill="url(#cloud)" opacity=".35"/>
-  <ellipse cx="1050" cy="262" rx="265" ry="88" fill="url(#cloud)" opacity=".38"/>
- </g>
- <path d="M0 245 Q150 165 280 216 T570 240 T900 210 T1120 237" fill="none" stroke="#fb204e" stroke-width="2" opacity=".65" filter="url(#glow)"/>
- <path d="M0 245 Q150 165 280 216 T570 240 T900 210 T1120 237" fill="none" stroke="#ea173b" stroke-width="1" opacity=".55"/>
-</g>
-<path d="M0 54 C160 9 250 104 410 74 S660 -1 807 48 S1040 107 1120 35" fill="none" stroke="#e8002c" stroke-width="14" filter="url(#glow)" opacity=".8"/>
-<path d="M0 54 C160 9 250 104 410 74 S660 -1 807 48 S1040 107 1120 35" fill="none" stroke="url(#line)" stroke-width="3.5" stroke-linecap="round"/>
-<path d="M80 188 Q270 258 420 183" stroke="#fb133d" fill="none" stroke-width="1.8" opacity=".65" filter="url(#glow)"/>
-<path d="M700 183 Q870 255 1040 188" stroke="#fb133d" fill="none" stroke-width="1.8" opacity=".65" filter="url(#glow)"/>
-<g transform="translate(490 89) scale(1.1)">
- <path d="M32,1 L31,18 L29,20 L10,21 L41,22 L46,24 L59,35 L62,42 L54,44 L42,32 L18,32 L15,35 L15,82 L26,84 L28,91 L26,93 L8,93 L5,90 L5,25 L4,92 L5,94 L29,95 L31,97 L32,122 L58,123 L58,120 L36,120 L33,116 L34,75 L38,68 L47,62 L50,68 L43,78 L43,83 L45,83 L44,78 L47,75 L51,78 L54,73 L54,59 L43,54 L36,47 L33,39 L38,36 L53,49 L65,49 L71,31 L87,19 L87,8 L85,6 L44,6 L41,18 L35,17 L32,14Z M124,22 L100,21 L98,19 L98,11 L97,39 L94,47 L88,53 L82,55 L80,48 L85,43 L87,33 L81,35 L76,43 L76,55 L63,59 L61,80 L65,78 L71,84 L69,76 L75,74 L80,80 L89,85 L114,84 L114,33 L103,31 L101,27 L104,22 L122,22 L124,27Z M101,33 L111,33 L113,35 L113,81 L111,83 L101,83 L93,67 L83,59 L95,47 L98,36Z M19,33 L30,33 L35,48 L46,59 L36,68 L32,78 L27,82 L18,82 L16,80 L16,38Z M44,9 L46,7 L84,7 L86,9 L86,18 L77,24 L64,40 L59,32 L45,21Z M125,37 L124,92 L122,94 L88,94 L76,89 L77,92 L85,97 L86,107 L84,109 L74,109 L73,111 L88,111 L88,101 L95,99 L97,101 L97,112 L94,120 L72,119 L72,122 L98,122 L100,117 L98,98 L103,95 L115,96 L126,94Z M65,62 L67,60 L78,60 L85,63 L92,69 L96,78 L90,80 L77,69 L67,69Z M44,93 L42,97 L43,111 L56,112 L56,109 L46,109 L44,107 L45,97 L52,91Z" fill="#ff133c" fill-rule="evenodd" filter="url(#glow)" opacity=".68"/>
- <path d="M32,1 L31,18 L29,20 L10,21 L41,22 L46,24 L59,35 L62,42 L54,44 L42,32 L18,32 L15,35 L15,82 L26,84 L28,91 L26,93 L8,93 L5,90 L5,25 L4,92 L5,94 L29,95 L31,97 L32,122 L58,123 L58,120 L36,120 L33,116 L34,75 L38,68 L47,62 L50,68 L43,78 L43,83 L45,83 L44,78 L47,75 L51,78 L54,73 L54,59 L43,54 L36,47 L33,39 L38,36 L53,49 L65,49 L71,31 L87,19 L87,8 L85,6 L44,6 L41,18 L35,17 L32,14Z M124,22 L100,21 L98,19 L98,11 L97,39 L94,47 L88,53 L82,55 L80,48 L85,43 L87,33 L81,35 L76,43 L76,55 L63,59 L61,80 L65,78 L71,84 L69,76 L75,74 L80,80 L89,85 L114,84 L114,33 L103,31 L101,27 L104,22 L122,22 L124,27Z M101,33 L111,33 L113,35 L113,81 L111,83 L101,83 L93,67 L83,59 L95,47 L98,36Z M19,33 L30,33 L35,48 L46,59 L36,68 L32,78 L27,82 L18,82 L16,80 L16,38Z M44,9 L46,7 L84,7 L86,9 L86,18 L77,24 L64,40 L59,32 L45,21Z M125,37 L124,92 L122,94 L88,94 L76,89 L77,92 L85,97 L86,107 L84,109 L74,109 L73,111 L88,111 L88,101 L95,99 L97,101 L97,112 L94,120 L72,119 L72,122 L98,122 L100,117 L98,98 L103,95 L115,96 L126,94Z M65,62 L67,60 L78,60 L85,63 L92,69 L96,78 L90,80 L77,69 L67,69Z M44,93 L42,97 L43,111 L56,112 L56,109 L46,109 L44,107 L45,97 L52,91Z" fill="#e8002c" fill-rule="evenodd"/>
-</g>
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="170" viewBox="0 0 1120 170" role="img" aria-label="Onda roja sobre fondo transparente">
+  <defs>
+    <linearGradient id="redFade" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FF1A40" stop-opacity="0.35"/>
+      <stop offset="0.35" stop-color="#E00026" stop-opacity="0.14"/>
+      <stop offset="1" stop-color="#E00026" stop-opacity="0"/>
+    </linearGradient>
+    <linearGradient id="waveStroke" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#FFB1BD"/>
+      <stop offset="0.4" stop-color="#FF264B"/>
+      <stop offset="1" stop-color="#D00024"/>
+    </linearGradient>
+    <filter id="softGlow" x="-15%" y="-160%" width="130%" height="420%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+  </defs>
+  <!-- No solid background: transparent everywhere except the red wave. -->
+  <path d="M0 52 C160 8 250 105 410 74 S660 -2 807 48 S1040 107 1120 35 L1120 170 L0 170 Z" fill="url(#redFade)"/>
+  <path d="M0 52 C160 8 250 105 410 74 S660 -2 807 48 S1040 107 1120 35" fill="none" stroke="#FF0037" stroke-width="16" opacity="0.62" filter="url(#softGlow)"/>
+  <path d="M0 52 C160 8 250 105 410 74 S660 -2 807 48 S1040 107 1120 35" fill="none" stroke="url(#waveStroke)" stroke-width="4" stroke-linecap="round"/>
+  <path d="M0 85 C190 57 285 117 438 98 S677 46 824 87 S1025 128 1120 69" fill="none" stroke="#E0002C" stroke-width="1.4" opacity="0.22"/>
 </svg>
