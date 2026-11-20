@@ -18,3 +18,16 @@
 <p align="center">
   <img src="https://gh-heat.anishroy.com/api/cnahuelcoy/svg?theme=red&darkMode=true" alt="GitHub Contributions" width="100%" />
 </p>
+
+
+<h3 align="left">Languages & Technologies</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python&theme=dark" />
+</p>
+
+<h3 align="left">Currently Learning</h3>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,postgres,docker&theme=dark" />
+</p>
