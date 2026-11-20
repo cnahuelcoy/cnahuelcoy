@@ -19,7 +19,9 @@
 <!--               ABOUT ME                   -->
 <!-- ======================================== -->
 
-<h3 align="left">Hello, World! (⌐■_■)</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Hello%2C%20World!&fontSize=32&fontColor=FF1744" width="100%" alt="Hello, World!" />
+</p>
 
 <p align="left">
   I'm Carlos, a first-year Computer Science and Engineering
@@ -30,7 +32,9 @@
 <!--         LANGUAGES & TECHNOLOGIES         -->
 <!-- ======================================== -->
 
-<h3 align="left">Languages & Technologies</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Languages%20%26%20Technologies&fontSize=32&fontColor=FF1744" width="100%" alt="Languages & Technologies" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" />
@@ -40,7 +44,9 @@
 <!--           CURRENTLY LEARNING             -->
 <!-- ======================================== -->
 
-<h3 align="left">Currently Learning</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=Currently%20Learning&fontSize=32&fontColor=FF1744" width="100%" alt="Currently Learning" />
+</p>
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,postgres,docker&theme=dark" alt="Currently Learning" />
@@ -50,7 +56,9 @@
 <!--             GITHUB ACTIVITY              -->
 <!-- ======================================== -->
 
-<h3 align="left">GitHub Activity</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=transparent&height=65&text=GitHub%20Activity&fontSize=32&fontColor=FF1744" width="100%" alt="GitHub Activity" />
+</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&bg_color=0D1117&color=F1F5F9&title_color=FF1744&line=FF1744&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=GitHub%20Activity%20-%20Last%2031%20Days" width="100%" alt="GitHub Activity - Last 31 Days" />
