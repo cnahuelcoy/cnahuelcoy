@@ -24,10 +24,11 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,fastapi,postgres,docker&theme=dark" />
 </p>
 
-<h3 align="left">GitHub Contributions</h3>
+<h3 align="left">GitHub Activity</h3>
 
 <p align="center">
-  <img src="https://gh-heat.anishroy.com/api/cnahuelcoy/svg?theme=red&darkMode=true" alt="GitHub Contributions" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=cnahuelcoy&bg_color=0D1117&color=F1F5F9&title_color=FF1744&line=FF1744&point=FF4D6D&area=true&area_color=5A1023&hide_border=true&custom_title=My%20GitHub%20Activity" width="100%" alt="GitHub Activity Graph" />
 </p>
+
 
 
